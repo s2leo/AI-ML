@@ -1,2 +1,2 @@
 # AI-ML
-exploring ai ml
+Exploring AI/ML
